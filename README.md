@@ -1,3 +1,3 @@
-# Taxi Data Analysis Project
+# New York Taxi Analysis Project
 
-Welcome to the Taxi Data Analysis Project! This project involves analyzing taxi datasets to perform various tasks such as prediction, mapping, and visualization. 
+Welcome to the New York Taxi Analysis Project! This project involves analyzing taxi datasets to perform various tasks such as prediction, mapping, and visualization. 
